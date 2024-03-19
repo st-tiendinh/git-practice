@@ -1,1 +1,1 @@
-console.log('first func')
+console.log("first func");
